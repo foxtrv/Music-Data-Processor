@@ -8,9 +8,6 @@
 #include "JSONDataObject.hpp"
 #include "JSONDataItem.hpp"
 
-//#include<iostream>
-//#include<vector>
-
 int main(){
 
 	Artists *artists = new Artists();
